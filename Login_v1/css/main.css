@@ -180,6 +180,12 @@ iframe {
   line-height: 1.5;
   color: #666666;
 }
+.txt2:hover {
+  font-family: Poppins-Regular;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #3595d9;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ login ]*/
@@ -334,7 +340,7 @@ iframe {
 }
 
 .input100:focus + .focus-input100 + .symbol-input100 {
-  color: #57b846;
+  color: #3595d9;
   padding-left: 28px;
 }
 
